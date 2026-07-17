@@ -36,7 +36,7 @@ Tip: bookmark your region's dashboard view for quick access in the future.
 ::::::{.larger-bullets3}
 
 - [East Midlands, Dwyrain y Canolbarth (ID: E12000004)](https://safer-parks.github.io/E12000004/)
-- [East of England, Dwyrain Lloegr (ID: E12000004)](https://safer-parks.github.io/E12000004/)
+- [East of England, Dwyrain Lloegr (ID: E12000006)](https://safer-parks.github.io/E12000006/)
 - [London, Llundain (ID: E12000007)](https://safer-parks.github.io/E12000007/)
 - [North East, Gogledd Ddwyrain (ID: E12000001)](https://safer-parks.github.io/E12000001/)
 - [North West, Gogledd Orllewin (ID: E12000002)](https://safer-parks.github.io/E12000002/)
