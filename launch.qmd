@@ -1,9 +1,30 @@
 ---
-title: "Select your region"
+title: "Pilot session complete"
 toc: false
 ---
 
-Please select your region from the list below to launch the relevant view on the dashboard. You can also scroll down to the map below to check which region you are in. The map is interactive, so you can zoom in and out to see the regions more clearly. Please note that simplified geometries are used for the map to improve performance, so some regions may appear slightly different from their actual boundaries.
+::: {.text-box}
+
+[User testing complete]{.emphasis}
+
+Thank you for taking part in the pilot session; we will be updating the dashboard based on your feedback. The dashboard will be offline as we incorporate these changes and prepare for the launch. If you haven't yet, please leave your feedback below in our user survey!
+
+
+::::{.d-flex .justify-content-center}
+[Report something broken](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y7F71Nw9669Pjl45v2S4qgtURTNCQzlWR01UQzNFV0pEVTM2OFlON0RHTS4u){.btn .btn-primary .btn-lg .rounded-pill} [Complete pilot user survey](https://forms.office.com/Pages/ResponsePage.aspx?id=qO3qvR3IzkWGPlIypTW3y3CZNq81K0JPjDKGeEpvxNlUMlY4NlI1OTBLVUtHVFFONkpWRUYxOEVYNi4u){.btn .btn-primary .btn-lg .rounded-pill} 
+::::
+
+
+<details>
+  <summary style="color: #572B6F !important;">Warranty and liability (click to expand)</summary>
+  The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+</details>
+
+:::
+
+<br>
+
+<!-- Please select your region from the list below to launch the relevant view on the dashboard. You can also scroll down to the map below to check which region you are in. The map is interactive, so you can zoom in and out to see the regions more clearly. Please note that simplified geometries are used for the map to improve performance, so some regions may appear slightly different from their actual boundaries.
 
 Tip: bookmark your region's dashboard view for quick access in the future.
 
@@ -66,7 +87,7 @@ Tip: bookmark your region's dashboard view for quick access in the future.
 
 ::::
 
-:::::
+::::: -->
 
 :::{.column-screen-inset}
 
